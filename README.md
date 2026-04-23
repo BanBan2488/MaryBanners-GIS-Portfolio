@@ -18,6 +18,8 @@ Plain-language mapping products designed to make Arctic-Boreal datasets accessib
 ### 🌿 Vieques Coastal Mapping (In Progress)
 Coastal and shoreline mapping project focused on environmental conditions and data accessibility in Vieques, Puerto Rico.
 
+🔗 https://storymaps.arcgis.com/stories/b43f7a6bafdd402398e81dc8b8ceb431
+
 ---
 
 ### 🌾 Effects of Anthropogenic Activities on Manoomin (Wild Rice)
