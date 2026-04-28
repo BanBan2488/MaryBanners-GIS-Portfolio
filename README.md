@@ -67,4 +67,4 @@ LinkedIn: https://linkedin.com/in/chefmaryb88
 
 ## Resume
 
-[Download Resume](resume/MBannerResume26_April.pdf)
+[Download Resume](MBannerResume26_April.pdf)
