@@ -64,3 +64,7 @@ Application of Indigenous research frameworks and geospatial tools to environmen
 ## Contact
 
 LinkedIn: https://linkedin.com/in/chefmaryb88  
+
+## Resume
+
+[Download Resume](resume/Mary_Banner_Resume.pdf)
