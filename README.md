@@ -45,7 +45,7 @@ Application of Indigenous research frameworks and geospatial tools to environmen
 
 ## Technical Skills
 
-- GIS: ArcGIS Pro, ArcGIS Online, StoryMaps, Survey123  
+- GIS: ArcGIS Pro, ArcGIS Online, QGIS, StoryMaps, Survey123  
 - Remote Sensing: Landsat, Sentinel-2, Earth observation data  
 - Programming: Python (ArcPy, Jupyter Notebooks), R  
 - Data: Spatial analysis, raster/vector workflows, NetCDF  
