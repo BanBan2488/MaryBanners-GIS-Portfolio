@@ -20,7 +20,7 @@ Developed GIS maps and regional booklet products using NASA NCCS climate and eco
 
 ### 🌿 Vieques Coastal Mapping (In Progress)  
 
-Network map developed in R to visualize relationships between environmental systems, stakeholders, and historical influences, including coral reefs, mangroves, U.S. Navy activity, and community-led decolonization efforts.
+Social network map developed in R to visualize relationships between environmental systems, stakeholders, and historical influences, including coral reefs, mangroves, U.S. Navy activity, and community-led decolonization efforts.
 
 ![Vieques Social Network Map](Images/Vieques_PR_Social_Network.png)
 
