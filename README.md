@@ -19,7 +19,10 @@ Developed GIS maps and regional booklet products using NASA NCCS climate and eco
 ---
 
 ### 🌿 Vieques Coastal Mapping (In Progress)  
-Conducting coastal GIS analysis to map shoreline conditions, environmental change, and ecosystem dynamics. This project focuses on making coastal data more accessible for understanding environmental impacts and supporting community awareness.
+
+Network map developed in R to visualize relationships between environmental systems, stakeholders, and historical influences, including coral reefs, mangroves, U.S. Navy activity, and community-led decolonization efforts.
+
+![Vieques Social Network Map](Images/Vieques_PR_Social_Network.png)
 
 🔗 https://storymaps.arcgis.com/stories/b43f7a6bafdd402398e81dc8b8ceb431  
 
