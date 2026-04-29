@@ -9,35 +9,37 @@ I am an environmental science graduate specializing in GIS, remote sensing, and 
 ## Featured Projects
 
 ### 🌎 NASA ABoVE Capstone – Communicating Complex Data Simply
-Plain-language mapping products designed to make Arctic-Boreal datasets accessible to communities.
+Plain-language mapping products designed to make Arctic-Boreal datasets accessible to communities. Produced GIS maps and compiled regional booklet products using NASA NCCS datasets, focusing on translating complex environmental data into accessible visual formats.
 
-🔗 https://storymaps.arcgis.com/stories/3cc6651e268042efbd99c4128f274107
+🔗 GitHub: https://github.com/BanBan2488/ABoVE-plain-language-products
+
+🔗 StoryMap: https://storymaps.arcgis.com/stories/3cc6651e268042efbd99c4128f274107
 
 ---
 
 ### 🌿 Vieques Coastal Mapping (In Progress)
-Coastal and shoreline mapping project focused on environmental conditions and data accessibility in Vieques, Puerto Rico.
+Conducting coastal GIS analysis and mapping environmental conditions to support accessible data visualization for shoreline and ecosystem understanding in Vieques, Puerto Rico.
 
 🔗 https://storymaps.arcgis.com/stories/b43f7a6bafdd402398e81dc8b8ceb431
 
 ---
 
 ### 🌾 Effects of Anthropogenic Activities on Manoomin (Wild Rice)
-GIS analysis examining environmental impacts on wild rice ecosystems and food sovereignty.
+Performed GIS analysis to identify environmental impacts on wild rice ecosystems, highlighting spatial relationships affecting water quality and food sovereignty.
 
 🔗 https://storymaps.arcgis.com/stories/49fdf986f15049d68111750f6b259499
 
 ---
 
 ### 🐙 Phylum Cnidaria Project
-Spatial and ecological exploration of marine organisms using GIS tools.
+Used GIS to map and analyze marine species distribution and ecological patterns, integrating spatial data with biological concepts.
 
 🔗 https://storymaps.arcgis.com/stories/c17829a472c249c8b869bc858d7a153a
 
 ---
 
 ### 🧭 Indigenous Research Methodologies
-Application of Indigenous research frameworks and geospatial tools to environmental studies.
+Applied Indigenous research frameworks alongside GIS tools to support community-centered environmental analysis and knowledge integration.
 
 🔗 https://storymaps.arcgis.com/stories/39772728a6ad44bb803027b06f771729
 
